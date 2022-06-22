@@ -9,3 +9,4 @@ Print the file iamafile
 symbolic link should be created in the current working directory
 copy html files
 move files beginning with upper case
+Delete files that end with ~
