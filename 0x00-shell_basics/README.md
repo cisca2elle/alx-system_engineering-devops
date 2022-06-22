@@ -6,3 +6,4 @@ Delete my first directory
 change working directory to previous one
 list all files in parent and current working directory in long format
 Print the file iamafile
+symbolic link should be created in the current working directory
