@@ -5,3 +5,4 @@ delete the file betty
 Delete my first directory
 change working directory to previous one
 list all files in parent and current working directory in long format
+Print the file iamafile
