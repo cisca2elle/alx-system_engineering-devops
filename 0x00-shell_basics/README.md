@@ -3,3 +3,4 @@ Create my first directory in tmp directory
 Move betty from tmp to my first directory
 delete the file betty
 Delete my first directory
+change working directory to previous one
