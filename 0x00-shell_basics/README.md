@@ -11,3 +11,4 @@ copy html files
 move files beginning with upper case
 Delete files that end with ~
 create directories in directories
+list all files and directories separated by commas
