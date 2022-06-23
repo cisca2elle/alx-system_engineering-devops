@@ -1,3 +1,2 @@
 #!/bin/bash
-su -p betty
-why?
+su -p betty /n why?
