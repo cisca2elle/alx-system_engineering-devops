@@ -6,3 +6,5 @@ create an empty file
 add execute permissions to owner of the file
 multiple permissions
 execution permission for everybody
+script 007
+script that sets mode of file
