@@ -12,3 +12,4 @@ mirror permissions
 execute permissions to all subdir within current dir
 create directory with permissions in working directory
 change group owner
+change group and owner
