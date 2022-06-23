@@ -8,3 +8,4 @@ multiple permissions
 execution permission for everybody
 script 007
 script that sets mode of file
+mirror permissions
