@@ -9,3 +9,4 @@ execution permission for everybody
 script 007
 script that sets mode of file
 mirror permissions
+execute permissions to all subdir within current dir
