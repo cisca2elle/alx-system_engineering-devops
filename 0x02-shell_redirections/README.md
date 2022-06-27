@@ -10,3 +10,4 @@ Script that writes the result of a command to a file
 a script to display thirdline of a file 
 duplicate the last line of a file
 script that deletes specific files
+count number of directories and sub-directories in the current directory
