@@ -7,3 +7,4 @@ Display the first 10 lines of a file
 Script that display third line of a file
 Create file with special characters
 Script that writes the result of a command to a file
+a script to display thirdline of a file 
