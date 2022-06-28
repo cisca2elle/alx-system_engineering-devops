@@ -15,3 +15,4 @@ Create script that takes list of word as input and prints words that appear exac
 Display lines containing the pattern “root” from the file
 Display the number of lines that contain the pattern “bin” in the file
 Display lines containing the pattern “root” and 3 lines after them in the file
+Display all lines in the file that do not contain the pattern bin
