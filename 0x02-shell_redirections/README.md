@@ -11,3 +11,4 @@ a script to display thirdline of a file
 duplicate the last line of a file
 script that deletes specific files
 count number of directories and sub-directories in the current directory
+Create script that takes list of word as input and prints words that appear exactly once
