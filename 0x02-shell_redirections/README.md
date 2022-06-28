@@ -13,3 +13,4 @@ script that deletes specific files
 count number of directories and sub-directories in the current directory
 Create script that takes list of word as input and prints words that appear exactly once
 Display lines containing the pattern “root” from the file
+Display the number of lines that contain the pattern “bin” in the file
