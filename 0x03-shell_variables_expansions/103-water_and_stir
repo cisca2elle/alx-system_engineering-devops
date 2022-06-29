@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $sum | sum=$((WATER + $STIR))
