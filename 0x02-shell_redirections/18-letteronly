@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l |ep -v '^[[:digit:]]' /etc/ssh/sshd_config
+ls -l | grep -v '^[[:digit:]]' /etc/ssh/sshd_config
